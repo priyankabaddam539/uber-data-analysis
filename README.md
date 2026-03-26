@@ -70,15 +70,15 @@ Uber-Data-Analysis/
 <section>
     <h2>🚀 Run Project</h2>
     <p>Clone repository:</p>
-    <pre>git clone https://github.com/your-username/Uber-Data-Analysis.git</pre>
+    <pre>git clone https://github.com/priyankabaddam539/uber-data-analysis/</pre>
     <a href="#" class="btn">View GitHub</a>
 </section>
 
 <section>
     <h2>👩‍💻 Author</h2>
-    <p><strong>Your Name</strong></p>
+    <p><strong>Priyanka Baddam</strong></p>
     <p>Data Analyst | Python & Power BI Enthusiast</p>
-    <a href="#" class="btn">LinkedIn</a>
+    <a href="#" class="btn">https://www.linkedin.com/in/priyanka-baddam/</a>
 </section>
 
 <footer>
